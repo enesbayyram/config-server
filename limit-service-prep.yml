@@ -5,3 +5,4 @@ spring:
 limit-service:
   minumum: 52
   maximum: 55
+  environment: prep
