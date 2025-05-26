@@ -3,6 +3,5 @@ spring:
     name: limit-service
 
 limit-service:
-  minumum: 1
-  maximum: 999
-  environment: prep
+  minumum: 52
+  maximum: 55
