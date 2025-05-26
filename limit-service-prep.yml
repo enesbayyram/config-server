@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: limit-service
+
+limit-service:
+  minumum: 1
+  maximum: 999
+  environment: prep
